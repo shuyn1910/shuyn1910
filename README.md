@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Discord Presence](https://lanyard.cnrad.dev/api/655640333505396758?borderRadius=15px&idleMessage=No%20activities&theme=dark)](https://discord.com/users/655640333505396758)
+[![Discord Presence](https://lanyard.cnrad.dev/api/655640333505396758?borderRadius=15px&idleMessage=No%20activities&theme=white)](https://discord.com/users/655640333505396758)
 <!--
 **shuyn1910/shuyn1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
